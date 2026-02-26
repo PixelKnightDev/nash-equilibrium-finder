@@ -1,0 +1,7 @@
+# Player A payoff
+3 0
+5 1
+
+# Player B payoff
+3 5
+0 1
